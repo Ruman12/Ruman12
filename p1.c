@@ -12,5 +12,6 @@ void main()
         }
 	printf("\n");
 	}
+	print("/n");
 }
 //comment
