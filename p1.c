@@ -12,6 +12,8 @@ void main()
         }
 	printf("\n");
 	}
-	print("/n");
+printf("row");
+	print("\n");
 }
+
 //comment
