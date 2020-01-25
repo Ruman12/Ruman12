@@ -1,0 +1,12 @@
+<html> 
+	<head>
+	<title>Paragraph Example</title>
+	</head>
+	<body>
+		<p>Document content goes here....</p>
+		<p>Here is 1st paragraph of the text</p>
+		<p>Here is 2nd paragraph of the text</p>
+		<p1 title="Hello HTML">Here is 3rd paragraph of the text</p1>
+		<p>Here is 4th paragraph of the text</p>
+	</body>
+</html>

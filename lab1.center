@@ -1,0 +1,13 @@
+<html> 
+	<head>
+	<title>centering content ex</title>
+	</head>
+	<body>
+	<hr/>
+		<p>Document content goes here....</p>
+		<p>Here is 1st paragraph of th text</p>
+		<p>Here is 2nd paragraph of th text</p>
+		<p>Here is 3rd paragraph of th text</p>
+		<p>Here is 4th paragraph of th text</p>
+	</body>
+</html>
