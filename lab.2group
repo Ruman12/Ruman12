@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Div Tag Example</title>
+</head>
+<body>
+<div id ="menu"align="middle">
+<a href="/home/exam1">HOME</a>
+<a href="/home/exam1/Desktop">CONTACT</a>
+<a href="/home/exam1/Desktop">ABOUT</a>
+</body>
